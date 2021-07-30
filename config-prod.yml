@@ -1,3 +1,4 @@
 baemin:
   gift: prod
-  mainPage: tung.html
+  mainPage: main.html
+  #mainPage: tung.html
