@@ -1,5 +1,5 @@
 baemin:
   gift: prod
-  mainPage: main
-  #mainPage: tung
-  version: 1
+  #mainPage: main
+  mainPage: tung
+  version: 2
